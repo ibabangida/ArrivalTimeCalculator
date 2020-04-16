@@ -25,7 +25,7 @@ Compared to using Google Maps, this app returns arrival time more easily and sim
   
 # Usage
 * Invite created bot to group talk or one on one communication.
-* Post wake words, which differ from your transportation.
+* Post wake words corresponding with your transportation.
   * by using public transportation: 帰る|かえる|帰り|かえり|か
   * by car: 車|くるま + 帰る|かえる|帰り|かえり|か
   * on foot: あるいて|あるきで|歩いて|歩きで|とほで|徒歩 + 帰る|かえる|帰り|かえり|か
