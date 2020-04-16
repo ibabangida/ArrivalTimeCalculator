@@ -1,5 +1,6 @@
 # ArrivalTimeCalculator
-Codes for Line Bot, which returns estimated arrival time to go home.
+ArrivalTimeCalculator is a Line Bot, which returns estimated arrival time to go home.
+Compared to using Google Maps, this app returns arrival time more easily and simply.
 
 # Requirement
 * LINE Developers Account for LINE Messaging API and bot
@@ -38,4 +39,3 @@ Codes for Line Bot, which returns estimated arrival time to go home.
 
 # License 
 "ArrivalTimeCalculator" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
-  
