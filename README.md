@@ -2,7 +2,7 @@
 Codes for Line Bot, which returns estimated arrival time to go home.
 
 # Requirement
-* LINE Developers Account for using LINE Messaging API and bot
+* LINE Developers Account for LINE Messaging API and bot
 * Google Account for Google Apps Script
 
 # Prepareation
