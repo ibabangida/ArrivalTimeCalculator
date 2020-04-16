@@ -1,6 +1,5 @@
 # ArrivalTimeCalculator
-ArrivalTimeCalculator is a Line Bot, which returns estimated arrival time to go home.
-
+ArrivalTimeCalculator is a Line Bot, which returns estimated arrival time to go home.<br>
 Compared to using Google Maps, this app returns arrival time more easily and simply.
 
 # Requirement
