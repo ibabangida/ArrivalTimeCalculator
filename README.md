@@ -17,7 +17,7 @@ Compared to using Google Maps, this app returns arrival time more easily and sim
 ## Make a Google sheet with apps script and setup an apps script
 * Make a Google sheet with apps script.
   * https://developers.google.com/apps-script/guides/sheets
-* Set Script Properties.
+* Set script properties.
   * AccessToken: channel access token of created LINE message app
   * RedirectUrl: https://api.line.me/v2/bot/message/reply
   * BotUrl: https://api.line.me/v2/bot/
