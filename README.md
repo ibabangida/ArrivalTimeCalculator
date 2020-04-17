@@ -35,15 +35,15 @@ Compared to using Google Maps, it returns arrival time more easily and simply.
 ## After registration of your home location
 * Post trigger words corresponding with your transportation.
   * by using public transportation: 帰る|かえる|帰り|かえり|か
-  * by car: 車|くるま + 帰る|かえる|帰り|かえり|か
-  * on foot: あるいて|あるきで|歩いて|歩きで|とほで|徒歩 + 帰る|かえる|帰り|かえり|か
+  * by car: (車|くるま) + (帰る|かえる|帰り|かえり|か)
+  * on foot: (あるいて|あるきで|歩いて|歩きで|とほで|徒歩) + (帰る|かえる|帰り|かえり|か)
 * The bot ask your current location.
 * Post your current location.
   * You can select a place which is different from your home location.
 * Then, you get estimated arrival time.
 
 # Note
-* This bot support only Japanese.
+* This bot support only Japanese so far.
 
 # Author
 * Keisuke Iba
