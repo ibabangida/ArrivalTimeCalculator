@@ -10,7 +10,7 @@ Compared to using Google Maps, it returns arrival time more easily and simply.
 * Google Account for Google Apps Script
 
 # Prepareation
-## Create Line Developers Account and set up a bot
+## Create a Line Developers Account and set up a bot
 * Create a LINE developer account, and set up a bot as below until "Set a Webhook URL".
   * https://developers.line.biz/en/docs/messaging-api/building-bot/#before-you-begin
 * Publish channel access token, which is used later.
