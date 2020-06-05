@@ -33,9 +33,9 @@ Compared to using Google Maps, it returns arrival time more easily and simply.
 
 ## After registration of your home location
 * Post trigger words corresponding with your transportation.
-  * by using public transportation: 帰る|かえる|帰り|かえり|か
-  * by car: (車|くるま) + (帰る|かえる|帰り|かえり|か)
-  * on foot: (あるいて|あるきで|歩いて|歩きで|とほで|徒歩) + (帰る|かえる|帰り|かえり|か)
+  * by using public transportation: か|帰る|かえる|帰ります|かえります|帰るで|かえるで|帰るやで|かえるやで|帰るね|かえるね|帰るわ|かえるわ
+  * by car: (車|くるま) + (か|帰る|かえる|帰ります|かえります|帰るで|かえるで|帰るやで|かえるやで|帰るね|かえるね|帰るわ|かえるわ)
+  * on foot: (あるいて|あるきで|歩いて|歩きで|とほで|徒歩) + (か|帰る|かえる|帰ります|かえります|帰るで|かえるで|帰るやで|かえるやで|帰るね|かえるね|帰るわ|かえるわ)
 * The bot ask your current location.
 * Post your current location.
   * You can select a place which is different from your home location.
