@@ -331,21 +331,19 @@ function replyArrivalTimeInfo(user_id, group_id, latitude, longitude)
   else
   {
     var leg = directions.routes[0].legs[0];
-    var duration = 0
+    var duration = leg.duration.value;
     var curr_time = new Date()
     var arrival_time = new Date()
     
     // arrival_timeがセットされている
     if (leg.arrival_time)
     {
-      duration  = leg.arrival_time.value - curr_time.getTime() / 1000; 
       arrival_time = new Date(leg.arrival_time.value * 1000);
     }
     // 近距離などの場合はセットされていないこともあるので、durationから計算する
     else
     {
-      duration = leg.duration.value * 1000;
-      arrival_time = new Date(curr_time.getTime() + duration);
+      arrival_time = new Date(curr_time.getTime() + duration * 1000);
     }
     
     var time = Utilities.formatDate(arrival_time, 'JST', 'HH:mm');
